@@ -5,6 +5,7 @@ Public Schedule is an XML format, for distributing data within TV and media busi
 open standard for exhanging information between internal systems at a broadcaster or distributor, as well as exhanging
 this type of data between organizations.
 
+#The XML structure in brief
 The XML format of Public schedule is divided in three different areas:
 
 Content contains metadata of programs, such as for example title, synopsis, image and participating actors.
@@ -14,7 +15,7 @@ recorded and be available on demand.
 Event contains information about the transmission of the program on a linear channel, such as the channel's name, 
 when the transmission starts and ends.
 
-History
+#History
 Public Schedule was invented by a joined effort from two of the major TV-channels in Sweden and one of the major
 distributors in the Nordic. The reason behind the effort was the lack of a common standard within this area, that
 also would enable to exchange information of new demands within the TV-area. It was also important that this would
